@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @xIceFox
-- ⚒️ I’m interested in how things work
-- 🌱 I’m currently studying Computer Science in Germany
+- ⚒️ I’m interested in how technical things work
 - 💞️ I’m looking to collaborate on hobby projects.
 - 📫 How to reach me Discord: xicefox
 
