@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @xIceFox
-- ⚒️ I’m interested in how technical things work
-- 💞️ I’m looking to collaborate on hobby projects.
-- 📫 How to reach me Discord: xicefox
+Hey, I'm xIceFox 👋
+I'm genuinely curious about how technology works under the hood — and I like to tinker with everything.
+By day I work on backend solutions with Azure and .NET — currently on WeAssist, a SaaS IoT solution by the company @WermaSignaltechnik.
+If you're working on a hobby project and need someone to collaborate with, feel free to reach out.
+Discord: xicefox
 
 <!---
 xIceFox/xIceFox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
