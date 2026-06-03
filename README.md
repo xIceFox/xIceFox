@@ -1,4 +1,4 @@
-Hey, I'm xIceFox 👋
+Hey, I'm Niklas 👋
 
 I'm genuinely curious about how technology works under the hood — and I like to tinker with everything.
 
